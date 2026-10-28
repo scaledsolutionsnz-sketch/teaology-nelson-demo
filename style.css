@@ -309,7 +309,7 @@ p{margin:0 0 1rem}
   body{font-size:16px}
   .section{padding:64px 0}
   .svc-grid,.crew-grid,.rev-grid,.footer-grid{grid-template-columns:1fr}
-  .hero-inner{padding:104px 0 54px}
+  .hero-inner{padding:104px 22px 54px}
   .hero-meta{gap:16px}
   .about-tag{left:0}
   .map-frame iframe{height:320px}
